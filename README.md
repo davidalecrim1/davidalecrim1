@@ -7,7 +7,6 @@ I'm a passionate software engineer and an eternal curious learner!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/davidalecrim11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidalecrim11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dsalecrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsalecrim" height="30" width="40" /></a>
 <a href="https://medium.com/@davidalecrim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidalecrim1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCA_R8zoEiwjc3mx7iKeTyKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidalecrim1" height="30" width="40" /></a>

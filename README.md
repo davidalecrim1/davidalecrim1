@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate software engineer 🙂
+Software engineer driven by curiosity about how systems actually work — from networking to system architecture and distributed systems. I’m especially interested in infrastructure concerns like observability and reliability, large-scale system failure and recovery, and in blockchain, Web3, and finance.
 
 ### Languages and Tools
 

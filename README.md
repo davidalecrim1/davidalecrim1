@@ -22,17 +22,7 @@ Software engineer driven by curiosity about how systems actually work — from n
 
 ### Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/dsalecrim" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsalecrim" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@davidalecrim1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidalecrim1" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCA_R8zoEiwjc3mx7iKeTyKg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidalecrim1" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/davidalecrim1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dsalecrim" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dsalecrim)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@davidalecrim1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCA_R8zoEiwjc3mx7iKeTyKg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/davidalecrim1)

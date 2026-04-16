@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software engineer driven by curiosity about how systems actually work — from networking to system architecture and distributed systems. I’m especially interested in infrastructure concerns like observability and reliability, large-scale system failure and recovery, and in blockchain, Web3, and finance.
+Software engineer who ships things that matter and takes ownership of what gets built. I’m deeply interested in blockchain, web3, crypto, and the financial infrastructure being rebuilt on top of them. I contribute to open source because the best way to learn is to work on real, hard problems with people who care.
 
 ### Languages and Tools
 
